@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JOTHIPRIYA R\\source\\repos\\RailwayReservationSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4DE9DB-D100-4DD1-B246-4824E95E079B}|RailwayReservationSystem\\RailwayReservationSystem.csproj|c:\\users\\jothipriya r\\source\\repos\\railwayreservationsystem\\railwayreservationsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4DE9DB-D100-4DD1-B246-4824E95E079B}|RailwayReservationSystem\\RailwayReservationSystem.csproj|solutionrelative:railwayreservationsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4DE9DB-D100-4DD1-B246-4824E95E079B}|RailwayReservationSystem\\RailwayReservationSystem.csproj|c:\\users\\jothipriya r\\source\\repos\\railwayreservationsystem\\railwayreservationsystem\\bookticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4DE9DB-D100-4DD1-B246-4824E95E079B}|RailwayReservationSystem\\RailwayReservationSystem.csproj|solutionrelative:railwayreservationsystem\\bookticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookTicket.cs",
+              "DocumentMoniker": "C:\\Users\\JOTHIPRIYA R\\source\\repos\\RailwayReservationSystem\\RailwayReservationSystem\\BookTicket.cs",
+              "RelativeDocumentMoniker": "RailwayReservationSystem\\BookTicket.cs",
+              "ToolTip": "C:\\Users\\JOTHIPRIYA R\\source\\repos\\RailwayReservationSystem\\RailwayReservationSystem\\BookTicket.cs",
+              "RelativeToolTip": "RailwayReservationSystem\\BookTicket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T14:06:04.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JOTHIPRIYA R\\source\\repos\\RailwayReservationSystem\\RailwayReservationSystem\\Program.cs",
+              "RelativeDocumentMoniker": "RailwayReservationSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\JOTHIPRIYA R\\source\\repos\\RailwayReservationSystem\\RailwayReservationSystem\\Program.cs",
+              "RelativeToolTip": "RailwayReservationSystem\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:59:51.094Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
